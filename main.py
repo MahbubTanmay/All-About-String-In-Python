@@ -16,7 +16,7 @@ print(a) #llo World
 a = str[:4] #print star from start position to position 4
 print(a) #Hell
 
-a = str[2:8] #print star from position 2 to position 8
+a = str[2:8] #print star from position 2 to position 5
 print(a) #llo Wo
 
 
@@ -66,3 +66,21 @@ print(*str, sep="-") #H-e-l-l-o- -W-o-r-l-d
 
 
 
+
+#print string character after character
+for i in(str):
+    print(i)
+'''
+This will print :
+H
+e
+l
+l
+o
+
+W
+o
+r
+l
+d
+'''
