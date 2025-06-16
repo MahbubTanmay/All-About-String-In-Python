@@ -16,7 +16,7 @@ print(a) #llo World
 a = str[:4] #print star from start position to position 4
 print(a) #Hell
 
-a = str[2:8] #print star from position 2 to position 5
+a = str[2:8] #print star from position 2 to position 8
 print(a) #llo Wo
 
 
